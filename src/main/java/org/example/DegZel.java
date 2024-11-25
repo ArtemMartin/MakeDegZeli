@@ -21,7 +21,7 @@ public class DegZel {
         } else {
             y += 7300000;
         }
-        x += -125.0;
+        x += getDX(y);
         y += -117.0;
         int nZonu = (int) Math.round(y * Math.pow(10.0, -6.0));
         double b = x / 6367558.4968;
@@ -33,6 +33,13 @@ public class DegZel {
         double L = (6.0 * ((double) nZonu - 0.5) / 57.29577951 + l) * 180.0 / Math.PI;
 
         return new double[]{B, L};
+    }
+
+    public double getDX(double y) {
+        double srY = 7387540.0;
+        double koef = 279.0 / 101588.0;
+        double dX = (y - srY) * koef + (-116.0);
+        return dX;
     }
 
     public String getNameOgnSreds() {
