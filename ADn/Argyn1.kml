@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
   <Document>
     <Placemark>
-<name>Samara1</name>
+<name>Argyn1</name>
  <description></description>
       <Style>
         <LabelStyle>
@@ -12,14 +12,14 @@
         <IconStyle>
           <scale>0.625</scale>
           <Icon>
-<href>files/GSADn.png</href>
+<href>files/ADn.png</href>
 </Icon>
           <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
         </IconStyle>
       </Style>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.288565043583105,47.98934558286334,0 </coordinates>
+<coordinates>37.1654651827788,47.94347711187384,0 </coordinates>
  </Point>
         </Placemark>
       </Document>

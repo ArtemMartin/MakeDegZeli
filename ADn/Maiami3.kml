@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
   <Document>
     <Placemark>
-<name>Elan2</name>
+<name>Maiami3</name>
  <description></description>
       <Style>
         <LabelStyle>
@@ -19,7 +19,7 @@
       </Style>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.26041903416388,47.988919354520334,0 </coordinates>
+<coordinates>37.17919754778964,47.947306513845085,0 </coordinates>
  </Point>
         </Placemark>
       </Document>

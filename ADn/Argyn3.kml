@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
   <Document>
     <Placemark>
-<name>Oskol3</name>
+<name>Argyn3</name>
  <description></description>
       <Style>
         <LabelStyle>
@@ -19,7 +19,7 @@
       </Style>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.1724061033468,47.99411794650276,0 </coordinates>
+<coordinates>37.1758067327914,47.95388996964765,0 </coordinates>
  </Point>
         </Placemark>
       </Document>

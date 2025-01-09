@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
   <Document>
     <Placemark>
-<name>Desna2</name>
+<name>Tyra1</name>
  <description></description>
       <Style>
         <LabelStyle>
@@ -12,14 +12,14 @@
         <IconStyle>
           <scale>0.625</scale>
           <Icon>
-<href>files/GSADn.png</href>
+<href>files/ADn.png</href>
 </Icon>
           <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
         </IconStyle>
       </Style>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.29036902726031,47.98177872395399,0 </coordinates>
+<coordinates>37.19355192376896,47.9391092234776,0 </coordinates>
  </Point>
         </Placemark>
       </Document>

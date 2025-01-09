@@ -12,16 +12,14 @@ import java.util.logging.Logger;
 
 public class MakeXMLDegZel {
     private final Map<String, DegZel> mapNameOSZel;
-    private final String[] nameADn = new String[]{"Aksai1", "Aksai2", "Aksai3", "Aksai4", "Aksai5", "Aksai6"
-            , "Kalitva1", "Kalitva2", "Kalitva3", "Kalitva4", "Kalitva5", "Kalitva6"
-            , "Oskol1", "Oskol2", "Oskol3", "Oskol4", "Oskol5", "Oskol6"
-            , "Elan1", "Elan2", "Elan3", "Elan4"};
-    private final String[] nameGSADn = new String[]{"Desna1", "Desna2", "Desna3", "Desna4", "Desna5", "Desna6"
-            , "Samara1", "Samara2", "Samara3", "Samara4", "Samara5", "Samara6"
-            , "Koren1", "Koren2", "Koren3", "Koren4", "Koren5", "Koren6"};
-    private final String[] nameREADn = new String[]{"Morava1", "Morava2", "Morava3", "Morava4", "Morava5", "Morava6"
-            , "Tisa1", "Tisa2", "Tisa3", "Tisa4", "Tisa5", "Tisa6"
-            , "Izvor1", "Izvor2", "Izvor3", "Izvor4", "Izvor5", "Izvor6"};
+    private final String[] nameADn = new String[]{"Ryshmalei1", "Ryshmalei2", "Tyra1", "Tyra1"
+            , "Maiami1", "Maiami2", "Maiami3", "Maiami4"
+            , "Argyn1", "Argyn2", "Argyn3", "Argyn4"};
+    private final String[] nameGSADn = new String[]{"Tryba1", "Tryba2", "Tryba3", "Tryba4", "Tryba5", "Tryba6"
+            , "Dereviannui", "Kabak", "Pashot", "Samara4", "Samara5", "Samara6"};
+    private final String[] nameREADn = new String[]{"Dnepr1", "Dnepr2", "Dnepr3", "Dnepr4"
+            , "Kenon1", "Kenon2", "Kenon3", "Kenon4"
+            , "Gazimyr1", "Gazimyr2", "Gazimyr3", "Gazimyr1"};
     private Map<String, DegZel> mapADn = new HashMap<>();
     private Map<String, DegZel> mapGSADn = new HashMap<>();
     private Map<String, DegZel> mapREADn = new HashMap<>();
