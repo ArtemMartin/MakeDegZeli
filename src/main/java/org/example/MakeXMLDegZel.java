@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 public class MakeXMLDegZel {
     private final Map<String, DegZel> mapNameOSZel;
-    private final String[] nameADn = new String[]{"Ryshmalei1", "Ryshmalei2", "Tyra1", "Tyra1"
+    private final String[] nameADn = new String[]{"Ryshmalei1", "Ryshmalei2", "Tyra1", "Tyra2"
             , "Maiami1", "Maiami2", "Maiami3", "Maiami4"
             , "Argyn1", "Argyn2", "Argyn3", "Argyn4"};
     private final String[] nameGSADn = new String[]{"Tryba1", "Tryba2", "Tryba3", "Tryba4", "Tryba5", "Tryba6"
