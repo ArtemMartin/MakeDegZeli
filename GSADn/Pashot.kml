@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
   <Document>
     <Placemark>
-<name>Tyra2</name>
+<name>Pashot</name>
  <description></description>
       <Style>
         <LabelStyle>
@@ -12,14 +12,14 @@
         <IconStyle>
           <scale>0.625</scale>
           <Icon>
-<href>files/ADn.png</href>
+<href>files/GSADn.png</href>
 </Icon>
           <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
         </IconStyle>
       </Style>
       <Point>
         <extrude>1</extrude>
-<coordinates>37.20571241905711,47.94522067465521,0 </coordinates>
+<coordinates>37.2262403353318,47.92666102928198,0 </coordinates>
  </Point>
         </Placemark>
       </Document>
