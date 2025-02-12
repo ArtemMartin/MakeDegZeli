@@ -3,8 +3,8 @@
     <output-path>$PROJECT_DIR$/out/artifacts/MakeDegZeli_jar</output-path>
     <root id="archive" name="MakeDegZeli.jar">
       <element id="module-output" name="MakeDegZeli" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/osgeo/proj4j/0.1.0/proj4j-0.1.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/osgeo/proj4j/0.1.0/proj4j-0.1.0.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

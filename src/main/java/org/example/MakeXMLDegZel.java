@@ -12,14 +12,14 @@ import java.util.logging.Logger;
 
 public class MakeXMLDegZel {
     private final Map<String, DegZel> mapNameOSZel;
-    private final String[] nameADn = new String[]{"Ryshmalei1", "Ryshmalei2", "Tyra1", "Tyra2"
-            , "Maiami1", "Maiami2", "Maiami3", "Maiami4"
+    private final String[] nameADn = new String[]{"Chikoi1", "Chikoi2", "Chikoi3", "Chikoi4"
+            , "Hilok1", "Hilok2", "Hilok3", "Hilok4"
             , "Argyn1", "Argyn2", "Argyn3", "Argyn4"};
     private final String[] nameGSADn = new String[]{"Tryba1", "Tryba2", "Tryba3", "Tryba4", "Tryba5", "Tryba6"
-            , "Dereviannui", "Kabak", "Pashot", "Samara4", "Samara5", "Samara6"};
+            , "Shmel1", "Shmel2", "Shmel3", "Shmel4", "Shmel5", "Shmel6"};
     private final String[] nameREADn = new String[]{"Dnepr1", "Dnepr2", "Dnepr3", "Dnepr4"
             , "Kenon1", "Kenon2", "Kenon3", "Kenon4"
-            , "Gazimyr1", "Gazimyr2", "Gazimyr3", "Gazimyr1"};
+            , "Gazimyr1", "Gazimyr2", "Gazimyr3", "Gazimyr4"};
     private Map<String, DegZel> mapADn = new HashMap<>();
     private Map<String, DegZel> mapGSADn = new HashMap<>();
     private Map<String, DegZel> mapREADn = new HashMap<>();
