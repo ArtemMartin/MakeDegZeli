@@ -22,10 +22,10 @@ public class DegZel {
     public static List<Double> refactorXYtoBL(double x, double y) {
         List<Double> list = new ArrayList();
         x += 5300000;
-        if (y > 99999) {
-            y += 7400000;
-        } else {
+        if (y > 50000) {
             y += 7300000;
+        } else {
+            y += 7400000;
         }
 // Создаем исходную и целевую системы координат
         CRSFactory factory = new CRSFactory();
